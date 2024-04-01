@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "527179605106",
+    "project_id": "monimo-a949d",
+    "storage_bucket": "monimo-a949d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527179605106:android:9170a736f0c05cffaa4eeb",
+        "android_client_info": {
+          "package_name": "com.monimo.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM_KsNY6ceEuhUHNzhmFtRv0qudu2S6K8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
